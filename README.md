@@ -57,6 +57,12 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 
 ### 🚀 Featured Projects
 
+#### 🏭 Toy Factory Tycoon (Technical Prototype)
+> *A logistics-focused tycoon game featuring a custom supply chain and vehicle system.*
+- **Role:** Lead Scripter & System Designer.
+- **Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
+- **Status:** Archived Prototype (90% Complete).
+
 #### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/kerimnalbas) (Roblox)
 > *Atmospheric survival-puzzle game featuring a custom "Click-to-Point" movement system.*
 - **Core Tech:** Custom Vector-based Pathfinding, DataStore Economy, Dynamic Shop System.
