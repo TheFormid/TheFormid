@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 I am a multidisciplinary creative bridging the gap between **System Engineering** and **Theatrical Art**. 
-Currently, I specialize in building immersive systems in **Roblox (LuaU)** and leading cultural communities like **Sahne Kitapları Kulübü**.
+Currently, I specialize in building immersive systems in **Roblox (Luau)** and leading cultural communities like **Sahne Kitapları Kulübü**.
 
 - 🔭 I’m currently building: **PPC (Party Party Chaos)** - A neon-noir Roblox experience.
 - 📐 My specialty: **Custom Pathfinding Algorithms**, **Grid Systems**, and **Level Design**.
@@ -57,24 +57,22 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 
 ### 🚀 Featured Projects
 
-#### 🏗️ PPC: Party Party Chaos (In Development)
-> **(2025 - Current)** | *A high-octane grid-based game utilizing advanced NPC logic.*
-- **Status:** Building the Core Loop & Map Design.
-- **Focus:** Advanced Pathfinding & Game Theory.
-
-#### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/artwork/XJl13l)
-> **(2022 - 2023)** | *Atmospheric survival-puzzle game featuring a custom "Click-to-Point" movement system.*
-- **Core Tech:** Custom Vector-based Pathfinding, DataStore Economy, Dynamic Shop System.
-- **Role:** Solo Developer & Level Designer.
-- **Twist:** The guiding light is actually a trap.
-
 #### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
-> **(2021 - 2022)** | *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
+> *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
 - **Role:** Lead Scripter & System Architect.
 - **Source Code:** [📂 View Lua Scripts on GitHub](https://github.com/TheFormid/Toy-Factory-Tycoon-Core)
 - **Core Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
 - **Status:** Archived (90% Complete).
 
+#### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/artwork/XJl13l)
+> *Atmospheric survival-puzzle game where players navigate abstract environments using a custom grid-based physics engine.*
+- **Role:** Solo Developer (Scripting, Level Design, UI).
+- **Source Code:** [📂 View Technical Documentation & Scripts](https://github.com/TheFormid/Darkness-Roblox-Game)
+- **Core Tech:** Custom Raycasting Physics, Data-Driven 3D Inventory, TweenService.
+
+#### 🏗️ PPC: Party Party Chaos (In Development)
+> *A high-octane grid-based game utilizing advanced NPC logic.*
+- **Status:** Building the Core Loop & Map Design.
 ---
 
 <div align="center">
