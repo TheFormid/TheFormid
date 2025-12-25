@@ -60,9 +60,9 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 #### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
 > *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
 - **Role:** Lead Scripter & System Architect.
+- **Source Code:** [📂 View Lua Scripts on GitHub](https://github.com/TheFormid/Toy-Factory-Tycoon-Core)
 - **Core Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
 - **Status:** Archived (90% Complete).
-- **Architecture:** Implemented a linear production loop (Furnace -> Converter -> Packager) and a physical delivery system.
 
 #### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/artwork/XJl13l)
 > *Atmospheric survival-puzzle game featuring a custom "Click-to-Point" movement system.*
