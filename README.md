@@ -57,14 +57,14 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 
 ### 🚀 Featured Projects
 
-#### 🏭 Toy Factory Tycoon (Technical Prototype)
+#### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
 > *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
 - **Role:** Lead Scripter & System Architect.
 - **Core Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
 - **Status:** Archived (90% Complete).
 - **Architecture:** Implemented a linear production loop (Furnace -> Converter -> Packager) and a physical delivery system.
 
-#### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/kerimnalbas) (Roblox)
+#### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/artwork/XJl13l)
 > *Atmospheric survival-puzzle game featuring a custom "Click-to-Point" movement system.*
 - **Core Tech:** Custom Vector-based Pathfinding, DataStore Economy, Dynamic Shop System.
 - **Role:** Solo Developer & Level Designer.
@@ -73,7 +73,6 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 #### 🏗️ PPC: Party Party Chaos (In Development)
 > *A high-octane grid-based game utilizing advanced NPC logic.*
 - **Status:** Building the Core Loop & Map Design.
-
 ---
 
 <div align="center">
