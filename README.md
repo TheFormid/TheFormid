@@ -66,4 +66,18 @@ Currently, I specialize in building immersive systems in **Roblox (LuaU)** and l
 > **(2022 - 2023)** | *Atmospheric survival-puzzle game featuring a custom "Click-to-Point" movement system.*
 - **Core Tech:** Custom Vector-based Pathfinding, DataStore Economy, Dynamic Shop System.
 - **Role:** Solo Developer & Level Designer.
-- **Twist:** The guiding light is actually
+- **Twist:** The guiding light is actually a trap.
+
+#### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
+> **(2021 - 2022)** | *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
+- **Role:** Lead Scripter & System Architect.
+- **Source Code:** [📂 View Lua Scripts on GitHub](https://github.com/TheFormid/Toy-Factory-Tycoon-Core)
+- **Core Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
+- **Status:** Archived (90% Complete).
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFormid&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
