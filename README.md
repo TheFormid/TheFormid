@@ -45,16 +45,12 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
    
-  <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  </a>
-   
   <a href="https://www.notion.so/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 
   <a href="https://www.photopea.com/">
-  <img src="https://img.shields.io/badge/PhotoPea-181818?style=for-the-badge&logo=photopea&logoColor=white" />
+  <img src="https://img.shields.io/badge/PhotoPea-18a497?style=for-the-badge&logo=photopea&logoColor=white" />
 </a>
 
 <a href="https://www.blackmagicdesign.com/products/davinciresolve">
