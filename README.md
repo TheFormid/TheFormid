@@ -31,6 +31,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 ---
 
 ### 🛠️ The Arsenal (Tech Stack)
+
 <div align="center">
   <a href="https://create.roblox.com/docs/scripting/luau">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -54,9 +55,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 </div>
 
 ---
-
 <br>
-
 ### 🧪 Open Source & R&D
 
 ### 🧠 [Custom Pathfinding System (CPS)](https://github.com/KULLANICI_ADIN/Custom-Pathfinding-System-CPS---R-D-Archives)
@@ -65,7 +64,6 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 > Roblox'un standart `PathfindingService` sınırlarını zorlayarak, sıfırdan inşa edilmiş modüler bir navigasyon motoru.
 > * **Phase 1-2:** Greedy Search'ten RGB Heatmap görselleştirmeli Wavefront algoritmasına geçiş.
 > * **Phase 3:** Hız için döngülerin açıldığı (loop unrolling) ve modüler mimariye geçildiği son optimizasyon katmanı.
-
 ---
 
 ### 🚀 Featured Projects
