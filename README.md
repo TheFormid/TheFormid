@@ -60,6 +60,10 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 <a href="https://www.piskelapp.com/">
   <img src="https://img.shields.io/badge/Piskel-53ff66?style=for-the-badge&logo=aseprite&logoColor=white" />
 </a>
+
+<a href="https://www.canva.com/">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</a>
 </div>
 
 ---
