@@ -66,6 +66,8 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 > * **Phase 1-2:** Greedy Search'ten RGB Heatmap görselleştirmeli Wavefront algoritmasına geçiş.
 > * **Phase 3:** Hız için döngülerin açıldığı (loop unrolling) ve modüler mimariye geçildiği son optimizasyon katmanı.
 
+---
+
 ### 🚀 Featured Projects
 
 #### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
