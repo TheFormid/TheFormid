@@ -2,23 +2,22 @@
 
   # 🎭 Mustafa Kerim Nalbaş (TheFormid) 🎮
   ### Digital Architect | Stage Director | Roblox Specialist
-    
+   
   *"I code the simulation, then I direct the play within it."*
 
   <p align="center">
-    <a href="https://www.artstation.com/SENIN_KULLANICI_ADIN">
+    <a href="https://artstation.com/kerimnalbas">
       <img src="https://img.shields.io/badge/Portfolio-ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
     </a>
-
-    <a href="https://www.linkedin.com/in/SENIN_PROFIL_ADIN/">
+    <a href="https://www.linkedin.com/in/kerimnalbas/">
       <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-
-    <a href="mailto:mustafakerim53t@gmail.com">
+    <a href="mailto:seninmailin@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 </div>
+
 
 
 
