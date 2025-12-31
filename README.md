@@ -62,7 +62,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 </a>
 
 <a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </a>
 </div>
 
