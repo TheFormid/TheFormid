@@ -32,7 +32,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 
 ### 🛠️ The Arsenal (Tech Stack)
 
-<div align="center">
+<div align="lefter">
   <a href="https://create.roblox.com/docs/scripting/luau">
     <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   </a>
