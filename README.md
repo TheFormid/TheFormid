@@ -52,6 +52,14 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
   <a href="https://www.notion.so/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
+
+  <a href="https://www.photopea.com/">
+  <img src="https://img.shields.io/badge/PhotoPea-181818?style=for-the-badge&logo=photopea&logoColor=white" />
+</a>
+
+<a href="https://www.blackmagicdesign.com/products/davinciresolve">
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+</a>
 </div>
 
 ---
