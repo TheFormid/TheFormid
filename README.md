@@ -41,10 +41,6 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
     <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
    
-  <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-   
   <a href="https://www.notion.so/">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
@@ -54,7 +50,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 </a>
 
 <a href="https://www.blackmagicdesign.com/products/davinciresolve">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-121212?style=for-the-badge&logo=davinciresolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-ef2236?style=for-the-badge&logo=davinciresolve&logoColor=white" />
 </a>
 </div>
 
