@@ -54,7 +54,11 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 </a>
 
 <a href="https://gemini.google.com/">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</a>
+
+<a href="https://www.piskelapp.com/">
+  <img src="https://img.shields.io/badge/Piskel-53ff66?style=for-the-badge&logo=aseprite&logoColor=white" />
 </a>
 </div>
 
