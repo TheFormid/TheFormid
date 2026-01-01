@@ -69,7 +69,7 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 
 ### 🧪 Open Source & R&D
 
-### 🧠 [Custom Pathfinding System (CPS)](https://github.com/TheFormid/Custom-Pathfinding-System-CPS---R-D-Archives)
+### 🧠 [Custom Pathfinding System (CPS) (2023)](https://github.com/TheFormid/Custom-Pathfinding-System-CPS---R-D-Archives)
 > **Algorithm Research & Optimization Study**
 >
 > Roblox'un standart `PathfindingService` sınırlarını zorlayarak, sıfırdan inşa edilmiş modüler bir navigasyon motoru.
@@ -79,14 +79,14 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 
 ### 🚀 Featured Projects
 
-#### 🏭 [Toy Factory Tycoon (Technical Prototype)](https://www.artstation.com/artwork/YG1G4b)
+#### 🏭 [Toy Factory Tycoon (Technical Prototype) (2021)](https://www.artstation.com/artwork/YG1G4b)
 > *A hybrid tycoon-simulator focusing on supply chain management and vehicle logistics.*
 - **Role:** Lead Scripter & System Architect.
 - **Source Code:** [📂 View Lua Scripts on GitHub](https://github.com/TheFormid/Toy-Factory-Tycoon-Core)
 - **Core Tech:** Server-Authoritative Data Management, Custom Proximity Interaction System (Magnitude-based).
 - **Status:** Archived (90% Complete).
 
-#### 🎮 [Darkness: The Cube's Journey](https://www.artstation.com/artwork/XJl13l)
+#### 🎮 [Darkness: The Cube's Journey (2022)](https://www.artstation.com/artwork/XJl13l)
 > *Atmospheric survival-puzzle game where players navigate abstract environments using a custom grid-based physics engine.*
 - **Role:** Solo Developer (Scripting, Level Design, UI).
 - **Source Code:** [📂 View Technical Documentation & Scripts](https://github.com/TheFormid/Darkness-Roblox-Game)
