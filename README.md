@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://www.artstation.com/the_formid">
-      <img src="https://img.shields.io/badge/Portfolio-ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
+      <img src="https://img.shields.io/badge/ArtStation-the__formid-131313?style=for-the-badge&logo=artstation&logoColor=white" />
     </a>
     <a href="mailto:the.formid.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-the.formid.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
