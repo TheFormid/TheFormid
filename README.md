@@ -15,6 +15,9 @@
     <a href="https://discord.com/users/the_formid">
       <img src="https://img.shields.io/badge/Discord-the__formid-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
+    <a href="https://www.instagram.com/mustafakerim.art/">
+      <img src="https://img.shields.io/badge/Instagram-mustafakerim.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
   </p>
 </div>
 
