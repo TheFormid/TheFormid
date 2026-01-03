@@ -10,14 +10,13 @@
       <img src="https://img.shields.io/badge/Portfolio-ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" />
     </a>
     <a href="mailto:the.formid.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-the.formid.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://discord.com/users/the_formid">
+      <img src="https://img.shields.io/badge/Discord-the__formid-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
   </p>
 </div>
-
-
-
-
 
 ### 👨‍💻 About Me
 I am a multidisciplinary creative bridging the gap between **System Engineering** and **Theatrical Art**. 
@@ -26,7 +25,6 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 - 🔭 I’m currently building: **PPC (Party Party Chaos)** - A neon-noir Roblox experience.
 - 📐 My specialty: **Custom Pathfinding Algorithms**, **Grid Systems**, and **Level Design**.
 - 🎭 Director of: *Kakulalar*, *Yalan Makinesi* (Theatre Plays).
-
 ---
 
 ### 🛠️ The Arsenal (Tech Stack)
