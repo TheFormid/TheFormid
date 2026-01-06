@@ -97,20 +97,24 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 > *A high-octane grid-based game utilizing advanced NPC logic.*
 - **Status:** Building the Core Loop & Map Design.
 ---
-
 ---
-<div align="center">
-  <p>Available for Freelance & Collaboration</p>
-  <p>
-    <a href="mailto:the.formid.dev@gmail.com">Contact Me</a> •
-    <a href="https://www.artstation.com/the_formid">ArtStation Portfolio</a>
-  </p>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFormid&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <h3>🚀 Available for Freelance & Collaboration</h3>
+  <br>
+  <a href="mailto:the.formid.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.artstation.com/the_formid">
+    <img src="https://img.shields.io/badge/Portfolio-ArtStation-131313?style=for-the-badge&logo=artstation&logoColor=white" alt="ArtStation" />
+  </a>
+  <a href="https://www.instagram.com/mustafakerim.art/">
+    <img src="https://img.shields.io/badge/Social-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br><br>
+  <p><i>"I code the simulation, then I direct the play within it."</i></p>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
