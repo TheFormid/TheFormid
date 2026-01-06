@@ -115,8 +115,3 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
   <p><i>"I code the simulation, then I direct the play within it."</i></p>
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFormid&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
