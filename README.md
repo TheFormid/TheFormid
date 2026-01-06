@@ -98,6 +98,20 @@ Currently, I specialize in building immersive systems in **Roblox (Luau)** and l
 - **Status:** Building the Core Loop & Map Design.
 ---
 
+---
+<div align="center">
+  <p>Available for Freelance & Collaboration</p>
+  <p>
+    <a href="mailto:the.formid.dev@gmail.com">Contact Me</a> •
+    <a href="https://www.artstation.com/the_formid">ArtStation Portfolio</a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFormid&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheFormid&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFormid&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
