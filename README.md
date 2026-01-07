@@ -18,11 +18,8 @@
     <a href="https://www.instagram.com/mustafakerim.art/">
       <img src="https://img.shields.io/badge/Instagram-mustafakerim.art-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-   <a href="https://www.linkedin.com/in/mustafa-kerim-nalbaş-the-formid-3a8852319">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
     <a href="https://www.linkedin.com/in/mustafa-kerim-nalbaş-the-formid-3a8852319/">
-      <img src="https://img.shields.io/badge/LINKEDIN-TheFormid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LINKEDIN-Mustafa Kerim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
 </div>
