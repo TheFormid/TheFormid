@@ -6,6 +6,7 @@
   *"I code the simulation, then I direct the play within it."*
 
   <p align="center">
+    [![Website](https://img.shields.io/badge/Website-MustafaKerim.com-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mustafakerim.com)
     <a href="https://www.artstation.com/the_formid">
       <img src="https://img.shields.io/badge/ArtStation-the__formid-131313?style=for-the-badge&logo=artstation&logoColor=white" />
     </a>
